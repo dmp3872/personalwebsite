@@ -16,23 +16,23 @@ export default function Portfolio() {
   const list = [
       {
         id: "featured",
-        title: "Featured",
+        title: "Health Hacks",
       },
       {
         id: "web",
-        title: "Web App",
+        title: "Coming Soon",
       },
       {
         id: "mobile",
-        title: "Mobile App",
+        title: "Coming Soon",
       },
       {
         id: "design",
-        title: "Design",
+        title: "Coming Soon",
       },
       {
         id: "content",
-        title: "Content",
+        title: "Coming Soon",
       },
     ];
 
@@ -45,17 +45,17 @@ export default function Portfolio() {
           case "web":
           setData(webPortfolio);
           break;
-          // case "mobile":
-          // setData(mobilePortfolio);
-          // break;
-          // case "design":
-          // setData(designPortfolio);
-          // break;
-          // case "content":
-          // setData(contentPortfolio);
-          // break;
-          // default:
-          //   setData(featuredPortfolio);
+          case "mobile":
+          setData(mobilePortfolio);
+          break;
+          case "design":
+          setData(designPortfolio);
+          break;
+          case "content":
+          setData(contentPortfolio);
+          break;
+          default:
+            setData(featuredPortfolio);
       }
     
     },[selected])
