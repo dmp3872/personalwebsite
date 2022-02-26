@@ -36,7 +36,7 @@ export default function Works() {
   ];
 
   const handleClick = (way)=> {
-    way == "left" ? setCurrentSlide(currentslide > 0 ? currentslide-1: 2):
+    way === "left" ? setCurrentSlide(currentslide > 0 ? currentslide-1: 2):
     setCurrentSlide(currentslide < data.length - 1 ? currentslide + 1 : 0)
   }
 
