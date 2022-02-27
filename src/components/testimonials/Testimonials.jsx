@@ -10,7 +10,7 @@ export default function Testimonials() {
         "assests/Santinos.avif",
       icon: "assets/twitter.png",
       desc:
-        "Assisted costumers with orders in-person and over the phone orders. Followed procedures for food preparation, handling, and inventory stocking."
+        "Assisted costumers, took in-person and over the phone orders. Followed procedures for food preparation, handling, and inventory stocking."
     },
     {
       id: 2,
