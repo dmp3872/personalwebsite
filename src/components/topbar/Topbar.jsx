@@ -23,7 +23,7 @@ export default function Topbar({menuOpen,setMenuOpen}) {
                 </div>
                 <div className="itemContainer">
                 <img src="assests/link.png" alt="" />
-                <span>https://www.linkedin.com/in/derekpruski/</span>
+                <span>https://www.linkedin.com/in/derekpruski</span>
                 </div>
               </div>
             <div className="right">
