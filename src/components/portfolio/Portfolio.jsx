@@ -20,7 +20,7 @@ export default function Portfolio() {
       },
       {
         id: "web",
-        title: "Coming Soon",
+        title: "Wordle Java FX",
       },
       {
         id: "mobile",

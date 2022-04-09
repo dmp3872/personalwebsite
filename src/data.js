@@ -40,33 +40,33 @@ export const featuredPortfolio = [
   export const webPortfolio = [
     {
       id: 1,
-      title: "Coming Soon",
-      img: "assests/question.png",
+      title: "Wordle Java FX",
+      img: "assests/wrdEXP.png",
     },
     {
       id: 2,
-      title: "Coming Soon",
-      img: "assests/question.png",
+      title: "Wrong Position",
+      img: "assests/wrd2.png",
     },
     {
       id: 3,
-      title: "Coming Soon",
-      img: "assests/question.png",
+      title: "Two Wrong Positions",
+      img: "assests/wrd3.png",
     },
     {
       id: 4,
-      title: "Coming Soon",
-      img: "assests/question.png",
+      title: "Correct Word",
+      img: "assests/wrd4.png",
     },
     {
       id: 5,
-      title: "Coming Soon",
-      img: "assests/question.png",
+      title: "Illegal Guess clears",
+      img: "assests/wrd5.png",
     },
     {
       id: 6,
-      title: "Coming Soon",
-      img: "assests/question.png",
+      title: "Six Wrong Guesses",
+      img: "assests/wrd6.png",
     },
   ];
   
