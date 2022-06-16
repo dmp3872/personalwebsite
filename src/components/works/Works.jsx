@@ -31,7 +31,7 @@ export default function Works() {
       desc:
         "Basic back-end expience w/ vectors, Arrays, sorting algorithms, ext. Course: Computational Problem Solving I",
       img:
-      "./assests/C++.jpg",
+      "./assests/c++.png",
     },
   ];
 

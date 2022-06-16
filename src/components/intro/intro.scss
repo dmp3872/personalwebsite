@@ -4,19 +4,19 @@
 
     .left{
         flex: 0.5;
-
+        padding-top: 80px;
         .imgContainer{
             width: 550px;
             height: 550px;
-            background-color: lightsteelblue;
-            border-radius: 48%;
+            background-color: navy;
+            border-radius: 70%;
             display: flex;
             align-items: flex-end;
             justify-content: center;
             float: right;
 
             img{
-                width: 70%;
+                width: 90%;
             }
         }
    }
