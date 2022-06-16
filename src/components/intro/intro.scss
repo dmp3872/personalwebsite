@@ -5,6 +5,8 @@
     .left{
         flex: 0.5;
         padding-top: 80px;
+        position: relative;
+
         .imgContainer{
             width: 550px;
             height: 550px;
@@ -17,6 +19,7 @@
 
             img{
                 width: 90%;
+                position: static;
             }
         }
    }
